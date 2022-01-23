@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T09:23:37.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8uc1VW3LlqRr089PjgJ5" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-23T09:26:51.583Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fhp61HHzNpd5mcjfWUK6" version="16.4.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="811" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Web" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="80" width="100" height="440" as="geometry" />
+          <mxGeometry x="181" y="80" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="250" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="新增令牌" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;fontSize=11;" parent="3nuBFxr9cyL0pnOWT2aG-1" edge="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="新增令牌" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;fontSize=11;entryX=-0.167;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3nuBFxr9cyL0pnOWT2aG-1" target="jWKGtdom1iI6boVSwskP-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" y="70" as="sourcePoint" />
-            <mxPoint x="30" y="70" as="targetPoint" />
+            <mxPoint x="-91" y="69" as="sourcePoint" />
+            <mxPoint x="39" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jWKGtdom1iI6boVSwskP-21" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
@@ -40,12 +40,12 @@
         <mxCell id="jWKGtdom1iI6boVSwskP-25" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry x="45" y="350" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jWKGtdom1iI6boVSwskP-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="jWKGtdom1iI6boVSwskP-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;exitX=1.033;exitY=0.371;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" source="jWKGtdom1iI6boVSwskP-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="368" as="sourcePoint" />
             <mxPoint x="55" y="402" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="119" y="375" />
+              <mxPoint x="129" y="385" />
               <mxPoint x="38" y="310" />
             </Array>
           </mxGeometry>
@@ -56,32 +56,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Auth Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="80" width="90" height="440" as="geometry" />
+          <mxGeometry x="361" y="80" width="90" height="440" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="40" y="70" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="请求 tapd 授权链接" style="verticalAlign=bottom;endArrow=block;entryX=0.033;entryY=0.167;shadow=0;strokeWidth=1;exitX=1.067;exitY=0.276;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" parent="1" source="jWKGtdom1iI6boVSwskP-21" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="160" as="sourcePoint" />
+            <mxPoint x="241" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="返回链接" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0.867;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="jWKGtdom1iI6boVSwskP-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="200" as="sourcePoint" />
-            <mxPoint x="180" y="200" as="targetPoint" />
+            <mxPoint x="301" y="200" as="sourcePoint" />
+            <mxPoint x="241" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jWKGtdom1iI6boVSwskP-6" value="Tapd 授权页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="100" height="440" as="geometry" />
+          <mxGeometry x="531" y="80" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="jWKGtdom1iI6boVSwskP-7" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="jWKGtdom1iI6boVSwskP-6">
           <mxGeometry x="45" y="150" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jWKGtdom1iI6boVSwskP-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.431;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="515" y="289.75" as="sourcePoint" />
-            <mxPoint x="175" y="290.64" as="targetPoint" />
+            <mxPoint x="576" y="289.75" as="sourcePoint" />
+            <mxPoint x="236" y="290.64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jWKGtdom1iI6boVSwskP-15" value="授权成功后跳转回 provisioner web" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="jWKGtdom1iI6boVSwskP-13">
@@ -91,14 +91,17 @@
         </mxCell>
         <mxCell id="jWKGtdom1iI6boVSwskP-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.933;exitY=0.133;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.133;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jWKGtdom1iI6boVSwskP-22" target="jWKGtdom1iI6boVSwskP-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="179.67000000000007" y="239.67999999999995" as="sourcePoint" />
-            <mxPoint x="510" y="239" as="targetPoint" />
+            <mxPoint x="240.67000000000007" y="239.67999999999995" as="sourcePoint" />
+            <mxPoint x="571" y="239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jWKGtdom1iI6boVSwskP-11" value="根据链接跳转至 tapd 授权页" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="jWKGtdom1iI6boVSwskP-9">
           <mxGeometry x="-0.014" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jWKGtdom1iI6boVSwskP-28" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="75" y="60" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
