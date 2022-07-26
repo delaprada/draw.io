@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T08:09:07.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.0" etag="uACS1k-lDm-aJO0cidVP" type="github"><diagram id="ZzLPfZyx9_Ajb0_xNtwq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-26T08:30:32.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LUp34EoteCIkO5csakWV" version="20.2.0" type="github">
+  <diagram id="ZzLPfZyx9_Ajb0_xNtwq" name="第 1 页">
+    <mxGraphModel dx="889" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="KS8kWW0X5-qkxQkHXji3-1" target="KS8kWW0X5-qkxQkHXji3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="KS8kWW0X5-qkxQkHXji3-1" target="KS8kWW0X5-qkxQkHXji3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="KS8kWW0X5-qkxQkHXji3-1" target="KS8kWW0X5-qkxQkHXji3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-1" value="statement of purpose" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="304" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="KS8kWW0X5-qkxQkHXji3-2" target="KS8kWW0X5-qkxQkHXji3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-2" value="acedemic background" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="90" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="KS8kWW0X5-qkxQkHXji3-3" target="KS8kWW0X5-qkxQkHXji3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.599;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="KS8kWW0X5-qkxQkHXji3-3" target="KS8kWW0X5-qkxQkHXji3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-3" value="research interest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="264" y="309" width="206" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-4" value="career goal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="264" y="540" width="206" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-8" value="重点强调相关课程：&lt;br&gt;1. 计算机网络&lt;br&gt;2. 电路与电子设计&lt;br&gt;3. 机器学习课程&lt;br&gt;4. 软件工程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-10" value="经历：&lt;br&gt;1. Data mining&lt;br&gt;2. Big Data and Visualization" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="359" width="220" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-14" value="成绩、奖学金、学过什么课程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="60" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-16" value="经历：&lt;br&gt;1. Data mining&lt;br&gt;2. Big Data and Visualization" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="580" y="369" width="220" height="81" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
