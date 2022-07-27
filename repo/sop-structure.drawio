@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T08:30:32.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LUp34EoteCIkO5csakWV" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T05:08:20.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="e3rm5cvU3ouwDlRPik0X" version="20.2.0" type="github">
   <diagram id="ZzLPfZyx9_Ajb0_xNtwq" name="第 1 页">
     <mxGraphModel dx="889" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,11 +28,17 @@
         <mxCell id="KS8kWW0X5-qkxQkHXji3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.599;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="KS8kWW0X5-qkxQkHXji3-3" target="KS8kWW0X5-qkxQkHXji3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="KS8kWW0X5-qkxQkHXji3-3" target="KS8kWW0X5-qkxQkHXji3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KS8kWW0X5-qkxQkHXji3-3" value="research interest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="264" y="309" width="206" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="KS8kWW0X5-qkxQkHXji3-4" target="KS8kWW0X5-qkxQkHXji3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KS8kWW0X5-qkxQkHXji3-4" value="career goal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="264" y="540" width="206" height="50" as="geometry" />
+          <mxGeometry x="270" y="680" width="206" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KS8kWW0X5-qkxQkHXji3-8" value="重点强调相关课程：&lt;br&gt;1. 计算机网络&lt;br&gt;2. 电路与电子设计&lt;br&gt;3. 机器学习课程&lt;br&gt;4. 软件工程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="220" width="220" height="120" as="geometry" />
@@ -43,8 +49,11 @@
         <mxCell id="KS8kWW0X5-qkxQkHXji3-14" value="成绩、奖学金、学过什么课程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="60" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KS8kWW0X5-qkxQkHXji3-16" value="经历：&lt;br&gt;1. Data mining&lt;br&gt;2. Big Data and Visualization" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="580" y="369" width="220" height="81" as="geometry" />
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-16" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Helvetica, Arial, sans-serif; text-align: justify;&quot;&gt;signal processing research 能够使我将&lt;/span&gt;&lt;br&gt;cs 和 ee, ml 的相关知识结合起来，得到提升，并应用至各个实际场景中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="480" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KS8kWW0X5-qkxQkHXji3-19" value="researcher" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="680" width="206" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
