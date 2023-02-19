@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T05:55:09.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.20" etag="8YUFWAmTEZV1XhGM4SCu" type="github"><diagram name="第 1 页" id="LvHxLC7NxPkxxpINz2_l">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-19T05:57:23.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="uO71Ha5lA_iU3qfdpUIg" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="LvHxLC7NxPkxxpINz2_l">
+    <mxGraphModel dx="795" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DANQvFQPbMdDl-sk3KL3-1" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/4e98e323-f010-41ab-a5cd-14376d05a36d/content;imageAspect=0;lucidId=eazyYzuKZeXY;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="DANQvFQPbMdDl-sk3KL3-2" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/d2cbdbb5-8ff4-4779-a287-8824f670963e/content;imageAspect=0;lucidId=.czyK44~xbkD;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="DANQvFQPbMdDl-sk3KL3-3" value="Motion Encoder" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;align=center;verticalAlign=middle;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DANQvFQPbMdDl-sk3KL3-4" value="Music Encoder" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
