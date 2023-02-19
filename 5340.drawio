@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T06:49:30.782Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="De6ykvkr-b9uAzd44uiK" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-19T06:50:35.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hSePlPCZMSZMayMN_isK" version="20.8.20" type="github">
   <diagram name="第 1 页" id="LvHxLC7NxPkxxpINz2_l">
     <mxGraphModel dx="830" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -67,10 +67,10 @@
         <mxCell id="RPDkZUeJLGg9BP1QQE9j-24" value="Sync / Asnc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="187.5" width="82" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="RPDkZUeJLGg9BP1QQE9j-26" value="Music" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RPDkZUeJLGg9BP1QQE9j-26" value="Music Sequence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="121" y="325" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RPDkZUeJLGg9BP1QQE9j-27" value="Motion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RPDkZUeJLGg9BP1QQE9j-27" value="Motion Sequence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
