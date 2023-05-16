@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T14:10:59.195Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iqz_6Z0qovs5jwKpt8vC" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T14:11:39.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PKRa_tw6j2h23Tz-BRmd" version="21.3.0" type="github">
   <diagram name="第 1 页" id="LvHxLC7NxPkxxpINz2_l">
-    <mxGraphModel dx="2868" dy="1542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="1928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,8 +32,8 @@
         <mxCell id="5TQFxc4qYsqJ_ImD79ju-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;dashed=1;" parent="1" source="DANQvFQPbMdDl-sk3KL3-4" target="RPDkZUeJLGg9BP1QQE9j-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="302" y="928" />
-              <mxPoint x="1043" y="928" />
+              <mxPoint x="302" y="920" />
+              <mxPoint x="1043" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -92,8 +92,8 @@
         <mxCell id="RPDkZUeJLGg9BP1QQE9j-85" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Generative Learning Stage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1570.1299999999999" y="353" width="484.24" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RPDkZUeJLGg9BP1QQE9j-87" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Diffusion Process&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="793.69" y="431" width="251.31" height="28" as="geometry" />
+        <mxCell id="RPDkZUeJLGg9BP1QQE9j-87" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Diffusion Process&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="793.69" y="431" width="289.31" height="28" as="geometry" />
         </mxCell>
         <mxCell id="RPDkZUeJLGg9BP1QQE9j-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;" parent="1" source="RPDkZUeJLGg9BP1QQE9j-97" target="iX8eaO5R2--_hm47nLVA-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -181,8 +181,8 @@
             <mxPoint x="1695" y="1122.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RPDkZUeJLGg9BP1QQE9j-162" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Reverse Process&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="790" y="960" width="246.49" height="28" as="geometry" />
+        <mxCell id="RPDkZUeJLGg9BP1QQE9j-162" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Reverse Process&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="790" y="960" width="274" height="28" as="geometry" />
         </mxCell>
         <mxCell id="RPDkZUeJLGg9BP1QQE9j-28" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Raw Music&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;container=0;" parent="1" vertex="1">
           <mxGeometry x="51.230000000000004" y="861" width="148" height="30" as="geometry" />
