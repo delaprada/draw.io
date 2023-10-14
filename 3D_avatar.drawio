@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T05:11:10.777Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hLa6CTbEFdQGtBtxsDZH" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T05:13:17.512Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WDoAqMpZWaA7luBUVR3J" version="22.0.4" type="github">
   <diagram name="第 1 页" id="B960z_BTow9J_yTm7T1u">
-    <mxGraphModel dx="1272" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry x="466" y="485" width="140" height="10" as="geometry" />
         </mxCell>
         <mxCell id="6FgV_9BxBY6Dlhf10fNA-28" value="MLP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6FgV_9BxBY6Dlhf10fNA-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -379,10 +379,23 @@
           <mxGeometry x="570" y="686.5" width="140" height="10" as="geometry" />
         </mxCell>
         <mxCell id="6FgV_9BxBY6Dlhf10fNA-136" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Sample (x&#39;, y&#39;, z&#39;)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="936.42" y="667" width="90" height="30" as="geometry" />
+          <mxGeometry x="960" y="660" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6FgV_9BxBY6Dlhf10fNA-138" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Camera&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="189.76" y="730" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6FgV_9BxBY6Dlhf10fNA-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" target="6FgV_9BxBY6Dlhf10fNA-136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="864" y="654.5" as="sourcePoint" />
+            <mxPoint x="1006" y="654.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="864" y="610" />
+              <mxPoint x="1006" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6FgV_9BxBY6Dlhf10fNA-141" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Viewing Direction d&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="706" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
