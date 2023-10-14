@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T06:09:05.140Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="E6Tvq2wGthha8j4KyYng" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T06:10:42.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ArXTBa6soXF7KhJyunLT" version="22.0.4" type="github">
   <diagram name="第 1 页" id="B960z_BTow9J_yTm7T1u">
-    <mxGraphModel dx="1590" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,7 +319,7 @@
         <mxCell id="6FgV_9BxBY6Dlhf10fNA-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FgV_9BxBY6Dlhf10fNA-116" target="6FgV_9BxBY6Dlhf10fNA-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6FgV_9BxBY6Dlhf10fNA-116" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Sample (x, y, z)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6FgV_9BxBY6Dlhf10fNA-116" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Sample r(t)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="401" y="930" width="95" height="23" as="geometry" />
         </mxCell>
         <mxCell id="6FgV_9BxBY6Dlhf10fNA-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;entryX=0.738;entryY=-0.745;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6FgV_9BxBY6Dlhf10fNA-131">
@@ -331,13 +331,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FgV_9BxBY6Dlhf10fNA-131" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Sample (x&#39;, y&#39;, z&#39;)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6FgV_9BxBY6Dlhf10fNA-131" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Sample r(t&#39;)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="627.74" y="926.5" width="102.26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6FgV_9BxBY6Dlhf10fNA-133" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;&quot;&gt;Mapping Function D&lt;/span&gt;&lt;sup style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;-1&lt;/font&gt;&lt;/sup&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="492.74" y="905.5" width="140" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="6FgV_9BxBY6Dlhf10fNA-136" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Sample (x&#39;, y&#39;, z&#39;)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6FgV_9BxBY6Dlhf10fNA-136" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Sample r(t&#39;)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="922.37" y="906" width="117.26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6FgV_9BxBY6Dlhf10fNA-138" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Camera&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
