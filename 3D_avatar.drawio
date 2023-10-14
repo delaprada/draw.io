@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T05:38:54.864Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="r4YyeEJJeyWT6_QndNQn" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T05:39:43.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="deEf-gYYNuosDCAjpnlM" version="22.0.4" type="github">
   <diagram name="第 1 页" id="B960z_BTow9J_yTm7T1u">
-    <mxGraphModel dx="308" dy="189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="415" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,15 +440,6 @@
             <mxPoint x="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FgV_9BxBY6Dlhf10fNA-160" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Original Mesh Latent Code Volume&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6FgV_9BxBY6Dlhf10fNA-151">
-          <mxGeometry x="-7.73" y="120" width="102.73" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6FgV_9BxBY6Dlhf10fNA-171" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.007;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.466;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6FgV_9BxBY6Dlhf10fNA-151" source="6FgV_9BxBY6Dlhf10fNA-160" target="6FgV_9BxBY6Dlhf10fNA-158">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="90" as="sourcePoint" />
-            <mxPoint x="40" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6FgV_9BxBY6Dlhf10fNA-172" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.027;exitY=0.219;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6FgV_9BxBY6Dlhf10fNA-151">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="87.27000000000001" y="73" as="sourcePoint" />
@@ -573,6 +564,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="752" y="530" as="sourcePoint" />
             <mxPoint x="840" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6FgV_9BxBY6Dlhf10fNA-160" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Original Mesh Latent Code Volume&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="712.27" y="580" width="102.73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6FgV_9BxBY6Dlhf10fNA-171" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.007;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="561" as="sourcePoint" />
+            <mxPoint x="759.80449" y="475.2099999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
